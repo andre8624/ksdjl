@@ -17,5 +17,6 @@ footer{
     color: var(--branco);
     width: 100%;
     text-align: center;
+    border-radius: 10px;
 
 }
