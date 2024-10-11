@@ -8,6 +8,7 @@
 }
 body{
     background-color: var(--fundo);
+    margin: 0;
 }
 footer{
     background-color: var(--preto);
@@ -16,4 +17,5 @@ footer{
     color: var(--branco);
     width: 100%;
     text-align: center;
+
 }
