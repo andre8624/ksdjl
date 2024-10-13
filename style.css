@@ -32,3 +32,6 @@ footer{
     flex-grow: 1;
     flex-basis: calc(33% - 3rem) ;
 }
+div{
+    border-bottom: #000000;
+}
