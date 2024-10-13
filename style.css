@@ -30,5 +30,5 @@ footer{
     margin: 1rem;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 3rem) ;
+    flex-basis: calc(33% - 2rem) ;
 }
