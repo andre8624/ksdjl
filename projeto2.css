@@ -28,3 +28,9 @@
        color: var(--branco);
    
    }
+
+    #container{
+        display: grid;
+        gap: 2rem;
+        margin: 2rem;
+    }
