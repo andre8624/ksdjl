@@ -26,7 +26,7 @@ footer{
 }
 header a{
     color: var(--branco);
-
+text-decoration: none;
 }
 #container{
     display: flex;
