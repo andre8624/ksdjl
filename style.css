@@ -21,7 +21,7 @@ footer{
     header{ display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: #13938c;
+    background-color: #1a3d52;
     padding: 2rem;
 }
 header a{
