@@ -1,6 +1,6 @@
 :root{
     --fundo: #20B2AA;
-    --cartao-frente: #4faf7a;
+    --cartao-frente: #3d51aa;
     --cartao-verso:#C71585;
     --detaque: #4B0082;
     --preto: #000000;
@@ -35,7 +35,7 @@
         margin: 2rem;
     }
     .conteudo-cartao{
-        background-color: var(--cartao-verso);
+        background-color: var(--cartao-frente);
         padding: 40px;
         border: 1px solid var(--detaque);
         transition: transform 0.2;
