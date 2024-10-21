@@ -34,3 +34,11 @@
         gap: 2rem;
         margin: 2rem;
     }
+    .conteudo-cartao{
+        background-color: var(--cartao-verso);
+        padding: 40px;
+        border: 1px solid var(--detaque);
+    }
+    .conteudo-cartao:hover{
+        transform: scale(1.0);
+    }
