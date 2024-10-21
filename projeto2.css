@@ -39,7 +39,7 @@
         padding: 40px;
         border: 1px solid var(--detaque);
         transition: transform 0.2;
-        box-shadow: 2px 2px 2px var(--preto);
+        box-shadow: 5px 5px 20px var(--preto);
     }
     .conteudo-cartao:hover{
         transform: scale(1.02);
