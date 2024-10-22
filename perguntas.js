@@ -2,7 +2,7 @@ criaCartao('Matemática', 'Qual é a formula de Bhaskara?',' -b ± √(b² – 4
 
 criaCartao('Fisica', 'Como se calcula a energia cinetica de um objeto?','Usamos a fórmula Ec=mv²/2')
 
-criaCartao('História', 'Qual era a justificativa que Vargas deu para dar um golpe de estado?','Ele utilizou comk pretesto, o plano cohen, que era um suposto plano comunista para tomar o poder')
+criaCartao('História', 'Qual era a justificativa que Vargas deu para dar um golpe de estado?','Ele utilizou como pretesto, o plano cohen, que era um suposto plano comunista para tomar o poder')
 
 criaCartao('Química', 'Como calcular a velocidade média de consumo?','V=Δn/Δt')
 
