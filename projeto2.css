@@ -42,7 +42,7 @@
         box-shadow: 5px 5px 20px var(--preto);
     }
     .conteudo-cartao:hover{
-        transform: matrix3d(2rem);
+        transform: scale(1.02);
     }
     .resposta-cartao{
         background-color: var(--cartao-verso);
