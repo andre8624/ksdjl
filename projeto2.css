@@ -1,7 +1,7 @@
 :root{
     --fundo: #20B2AA;
     --cartao-frente: #3d51aa;
-    --cartao-verso:#220b74;
+    --cartao-verso:#3a2b70;
     --detaque: #4B0082;
     --preto: #000000;
     --branco: #ffffff;
@@ -51,5 +51,5 @@
         color:var(--branco);
         margin-top: 2rem;  
         display: none;     
-        border-radius: 3px;
+        border-radius: 10px;
     }
