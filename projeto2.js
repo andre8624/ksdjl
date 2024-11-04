@@ -27,7 +27,7 @@ resposta.style.display = 'block';
 
 }
     else(resposta.Style.display === 'none'){
-        resposta.style.display = 'block';
+        
 
 
     }
