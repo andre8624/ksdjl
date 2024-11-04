@@ -21,13 +21,13 @@ function criaCartao (categoria, pergunta, resposta){
 function mostraReposta (card)   {
     const resposta=document.querySelector ('.resposta-cartao')
 if(resposta.Style.display === 'none'){
-resposta.style.display = 'black';
+resposta.style.display = 'block';
 
 
 
 }
     else(resposta.Style.display === 'none'){
-        resposta.style.display = 'black';
+        resposta.style.display = 'block';
 
 
     }
