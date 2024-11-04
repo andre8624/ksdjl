@@ -27,6 +27,7 @@ resposta.style.display = 'black';
 
 }
     else(resposta.Style.display === 'none'){
+        resposta.style.display = 'black';
 
 
     }
