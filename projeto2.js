@@ -26,8 +26,8 @@ resposta.style.display = 'block';
 
 
 }
-    else(resposta.Style.display === 'none'){
-        
+    else{
+        resposta.Style.display === 'none'
 
 
     }
